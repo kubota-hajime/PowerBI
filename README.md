@@ -1,4 +1,4 @@
-![Preview do Dashboard](image/dashboard.png)
+![Preview do Dashboard](image/Dashboard.png)
 # 📊 Relatório de Vendas e Desempenho Global (Power BI)
 
 Este repositório contém um projeto interativo desenvolvido em Power BI para análise de desempenho de vendas, lucratividade e volume de unidades vendidas por região, segmento de mercado e linha de produtos.
